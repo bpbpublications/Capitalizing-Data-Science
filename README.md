@@ -1,2 +1,2 @@
-# Data Science:Think Strategic
- Data Science: Think Strategic
+# Capitalizing Data Science
+ Capitalizing Data Science
