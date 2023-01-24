@@ -3,7 +3,7 @@
 Unlock the Potential of Data Science and Machine Learning to Your Business and Organization
 
 This is the repository for [Capitalizing Data Science
-](https://in.bpbonline.com/products/capitalizing-data-science?_pos=1&_sid=c73359faf&_ss=r&variant=43793241374958),published by BPB Publications. 
+](https://bpbonline.com/products/capitalizing-data-science),published by BPB Publications. 
 
 ## About the Book
 Can you foresee how your company and its products will benefit from data science? How can the results of using AI and ML in business be tracked and questioned? Do questions like ‘how do you build a data science team?’ keep popping into your head? 
